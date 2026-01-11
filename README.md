@@ -40,6 +40,6 @@ This analysis highlights critical funnel gaps and provides actionable insights
 to optimize marketing performance and improve customer acquisition. The
 project demonstrates practical funnel analysis skills using Excel as part of
 the FUTURE_DS internship program.
- 
 
+ This project demonstrates practical data analysis skills using Excel as part of the FUTURE_DS internship program.
 Project Report (PDF): [Click here to view](./FUTURE_DS_Task3_Marketing_Funnel_Conversion_Analysis_Report.pdf)
